@@ -1,16 +1,7 @@
-# demo1
+# 关于
+这是我入门flutter写的项目,一边学一边写,肯定有很多不合理的地方,还望各位大佬勿喷!谢谢
+有问题也可以提交iss,或者加flutter学习群提问,看到都会回复的,群号1102781545
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 项目截图
+| --- | --- |
+|![1598619522755.jpg](https://static.saintic.com/picbed/huang/2020/08/28/1598619522755.jpg)|![1598619524192.jpg](https://static.saintic.com/picbed/huang/2020/08/28/1598619524192.jpg)|
